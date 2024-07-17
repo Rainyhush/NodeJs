@@ -3,13 +3,21 @@
   "version": "1.0.0",
   "description": "项目描述",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
   "author": "你的名字",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "axios": "^1.7.2",
+    "base64url": "^3.0.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "js-base64": "^3.7.7",
+    "js-yaml": "^4.1.0",
+    "nodejs": "^0.0.0",
+    "nodejs-base64": "^2.0.0",
+    "webpack": "^5.93.0"
   }
 }
